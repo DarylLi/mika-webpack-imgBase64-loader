@@ -41,3 +41,6 @@ module.exports = {
 ```javascript
 import logo from './assets/logo.png'
 ```
+
+<img width="2985" height="859" alt="image" src="https://github.com/user-attachments/assets/c3298871-65f6-4a96-968f-43c60b76bea5" />
+
