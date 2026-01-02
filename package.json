@@ -9,6 +9,13 @@
     "dev": "webpack --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarylLi/mika-webpack-imgBase64-loader.git"
+  },
+  "files": [
+    "plugins"
+  ],
   "keywords": [],
   "author": "daryl",
   "license": "ISC",
