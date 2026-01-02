@@ -1,6 +1,6 @@
 {
   "name": "mika-webpack-img2base64-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./webpack-loader/mika-img2base64-loader.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "https://github.com/DarylLi/mika-webpack-imgBase64-loader.git"
   },
   "files": [
-    "plugins"
+    "webpack-loader"
   ],
   "keywords": [],
   "author": "daryl",
